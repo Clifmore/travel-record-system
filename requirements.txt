@@ -1,0 +1,10 @@
+# Testing
+pytest==7.4.0
+pytest-cov==4.1.0
+
+# Code quality (optional)
+black==23.9.1
+flake8==6.1.0
+
+# No external dependencies needed
+# All code uses Python's built-in libraries
