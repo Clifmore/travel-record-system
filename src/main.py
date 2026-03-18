@@ -4,7 +4,7 @@ Travel Agent Record Management System - Main Entry Point
 University of Liverpool - Group B 2026
 """
 
-mport tkinter as tk
+import tkinter as tk
 from tkinter import ttk, messagebox
 import sys
 import os
